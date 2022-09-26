@@ -1,0 +1,25 @@
+/* Default Styles */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #3D3E8D;
+    line-height: 1.5;
+}
+
+
+/* Main Styles */
+
+main{
+    width: 50%;
+    margin: auto;
+}
+
+.survey-form{
+    background-color: #262647;
+
+}
